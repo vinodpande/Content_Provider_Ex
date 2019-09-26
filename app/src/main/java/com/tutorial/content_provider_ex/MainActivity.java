@@ -8,7 +8,7 @@ import android.os.Bundle;
  */
 public class MainActivity extends AppCompatActivity {
     /*
-
+This is content Provider Example
      */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
