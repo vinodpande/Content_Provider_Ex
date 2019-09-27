@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Content_Provider_Ex</string>
+    <string name="app_read">com.tutorial.content_provider_ex.PERMISSION</string>
+    <string name="app_write">com.tutorial.content_provider_ex.PERMISSION</string>
 </resources>
